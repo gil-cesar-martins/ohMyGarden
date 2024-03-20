@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216303967810",
+    "project_id": "ohmygarden-75903",
+    "storage_bucket": "ohmygarden-75903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216303967810:android:4bc409733e4fd2019117db",
+        "android_client_info": {
+          "package_name": "com.mycompany.ohmygarden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqT_7ioEuG4ri-o36ujSFBWpRBJW3Ytag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
